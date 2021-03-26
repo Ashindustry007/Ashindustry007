@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+#### I am an abstract thinker ♾️. Everything with patterns :electron: fascinates me. The scope of learning new things is what drives me everyday. I always try to exercise my logical 💻 left brain and my creative 📸 rigth brain :brain: . Currently an undergrad 🎓 persuing Electrical Engineering.
+
+- 📚 I’m currently learning ... Reinforcement Learning and Generative Adversial Networks.
+- 🤝 I’m looking to collaborate on ... Research papers and projects on NLP/CV/DL/RL/GAN and related fields.
+- ✉️ How to reach me: ... [Linkedin](https://www.linkedin.com/in/ashish-panda-475921143/) ||  [Gmail](mailto:ashishpanda.proff@gmail.com) || [Twitter](https://twitter.com/Ashindustry_007)
 
 <!--
 **Ashindustry007/Ashindustry007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
