@@ -30,6 +30,5 @@ I now bring these skills into **managing and processing large-scale scientific d
 
 ### ✉️ Reach Me  
 - [LinkedIn](https://www.linkedin.com/in/ashishpanda007/)  
-- [Gmail](mailto:ashishpanda.edu@gmail.com)  
-- [Twitter](https://twitter.com/Ashindustry_007)  
+- [Gmail](mailto:ashishpanda.edu@gmail.com)   
 - [Kaggle](https://www.kaggle.com/ashishkumarpanda)  
