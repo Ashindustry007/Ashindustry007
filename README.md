@@ -1,8 +1,6 @@
 ## Hi there 👋  
 
-I am a researcher and engineer passionate about applying **AI to healthcare, bioinformatics, and scientific discovery**.  
-I see patterns everywhere ♾️—whether in biological data, images, or natural language—and I love turning them into insights using machine learning.  
-My curiosity drives me to explore both the **theoretical depth of algorithms** and their **real-world applications** in health and science.  
+I am a researcher and engineer passionate about applying **AI to healthcare, bioinformatics, and scientific discovery**.  I see patterns everywhere ♾️—whether in biological data, images, or natural language—and I love turning them into insights using machine learning.  My curiosity drives me to explore both the **theoretical depth of algorithms** and their **real-world applications** in health and science.
 
 ---
 
@@ -14,8 +12,7 @@ My curiosity drives me to explore both the **theoretical depth of algorithms** a
 ---
 
 ### 📚 Currently Exploring  
-- **Large Language Models (LLMs)** for bioinformatics and molecular biology – e.g., genetic variant interpretation, protein modeling, and drug discovery.  
-- **Reinforcement Learning** and **generative models** in Computer Vision and Healthcare.  
+- The use of **AI and machine learning for healthcare and biological data**, including **computational biology, bio-molecular modeling, medical imaging, and generative models** for discovery and analysis.  
 
 ---
 
