@@ -1,3 +1,6 @@
+<img width="1344" height="768" alt="Whisk_10337cfa6353d339fb244045bb2d450ddr-ezgif com-png-to-webp-converter" src="https://github.com/user-attachments/assets/08d6a611-b078-46b3-b7c9-c267b4e71475" />
+
+
 ## Hi there 👋  
 
 I am a researcher and engineer passionate about applying **AI to healthcare, bioinformatics, and scientific discovery**.  I see patterns everywhere ♾️—whether in biological data, images, or natural language—and I love turning them into insights using machine learning.  My curiosity drives me to explore both the **theoretical depth of algorithms** and their **real-world applications** in health and science.
